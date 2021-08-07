@@ -1,16 +1,16 @@
 # Price Oracle
 
 {% hint style="info" %}
-We have Chainlink as our main price oracle
+We have Band Protocol as our primary oracle
 {% endhint %}
 
-### Chainlink
+### Band Protocol
 
-For the following tokens, we use price feed provided by Chainlink:
+For the following tokens, we use price feed provided by Band Protocol:
 
 WETH / BTC / DAI / LINK / YFI / SNX / DPI / USDT / USDC / UNI / SUSHI / BUSD / sUSD / FRAX
 
-For the following BTC-pegged token, we use BTC price instead:
+For the following BTC-pegged token, we use BTC price:
 
 * WBTC
 
