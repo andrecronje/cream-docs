@@ -1,5 +1,9 @@
 # Table of contents
 
+## Developer
+
+* [Addresses](iron-bank/addresses.md)
+
 ## Iron Bank
 
 * [Iron Bank Contract Address](iron-bank/iron-bank.md)
