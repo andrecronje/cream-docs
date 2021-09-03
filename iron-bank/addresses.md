@@ -11,7 +11,6 @@
 | ibEUR stabilizer | [0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90](https://etherscan.io/address/0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90) |
 | ibEUR Fee Distribution | [0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA](https://etherscan.io/address/0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA) |
 | KP3R Fee Distribution | [0x2EcB138B616986aE27DDEaB468b74281666c7E4C](https://etherscan.io/address/0x2EcB138B616986aE27DDEaB468b74281666c7E4C) |
-| :--- | :--- |
 
 ## Fixed Forex
 
@@ -23,7 +22,6 @@
 | JPY | [0x5555f75e3d5278082200Fb451D1b6bA946D8e13b](https://etherscan.io/address/0x5555f75e3d5278082200Fb451D1b6bA946D8e13b) |
 | EUR | [0x96E61422b6A9bA0e068B6c5ADd4fFaBC6a4aae27](https://etherscan.io/address/0x96E61422b6A9bA0e068B6c5ADd4fFaBC6a4aae27) |
 | KRW | [0x95dFDC8161832e4fF7816aC4B6367CE201538253](https://etherscan.io/address/0x95dFDC8161832e4fF7816aC4B6367CE201538253) |
-| :--- | :--- |
 
 ## Iron Bank
 
@@ -35,7 +33,6 @@
 | JPY | [0x215F34af6557A6598DbdA9aa11cc556F5AE264B1](https://etherscan.io/address/0x215F34af6557A6598DbdA9aa11cc556F5AE264B1) |
 | EUR | [0x00e5c0774A5F065c285068170b20393925C84BF3](https://etherscan.io/address/0x00e5c0774A5F065c285068170b20393925C84BF3) |
 | KRW | [0x3c9f5385c288cE438Ed55620938A4B967c080101](https://etherscan.io/address/0x3c9f5385c288cE438Ed55620938A4B967c080101) |
-| :--- | :--- |
 
 ## Curve Pools
 
@@ -47,7 +44,6 @@
 | JPY | [0x8818a9bb44Fbf33502bE7c15c500d0C783B73067](https://etherscan.io/address/0x8818a9bb44Fbf33502bE7c15c500d0C783B73067) |
 | EUR | [0x19b080FE1ffA0553469D20Ca36219F17Fcf03859](https://etherscan.io/address/0x19b080FE1ffA0553469D20Ca36219F17Fcf03859) |
 | KRW | [0x8461A004b50d321CB22B7d034969cE6803911899](https://etherscan.io/address/0x8461A004b50d321CB22B7d034969cE6803911899) |
-| :--- | :--- |
 
 ## Gauges
 
@@ -59,7 +55,6 @@
 | JPY | [0xeFF437A56A22D7dD86C1202A308536ED8C7da7c1](https://etherscan.io/address/0xeFF437A56A22D7dD86C1202A308536ED8C7da7c1) |
 | EUR | [0x99fb76F75501039089AAC8f20f487bf84E51d76F](https://etherscan.io/address/0x99fb76F75501039089AAC8f20f487bf84E51d76F) |
 | KRW | [0x1750a3a3d80A3F5333BBe9c4695B0fAd41061ab1](https://etherscan.io/address/0x1750a3a3d80A3F5333BBe9c4695B0fAd41061ab1) |
-| :--- | :--- |
 
 ## Deprecated
 
@@ -76,4 +71,3 @@
 | Gauge Proxy | [0x90aAb6C9D887A7Ff8320e56fbd1F4Ff80A0811d5](https://etherscan.io/address/0x90aAb6C9D887A7Ff8320e56fbd1F4Ff80A0811d5) |
 | ibEUR Gauge | [0xFFb57364d63D5C5cf299D12Fa73cfabEFc301Dc4](https://etherscan.io/address/0xFFb57364d63D5C5cf299D12Fa73cfabEFc301Dc4) |
 | ibKRW Gauge | [0xCADEA5B814917c0D03a8cF7612c1e4B09f49dbc7](https://etherscan.io/address/0xCADEA5B814917c0D03a8cF7612c1e4B09f49dbc7) |
-| :--- | :--- |
