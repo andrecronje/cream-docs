@@ -9,6 +9,7 @@
 | vKP3R | [0x2FC52C61fB0C03489649311989CE2689D93dC1a2](https://etherscan.io/address/0x2FC52C61fB0C03489649311989CE2689D93dC1a2) |
 | vClaim | [0x076BBBD5384acd0550D8D58Bc758Dd9E0287CCCF](https://etherscan.io/address/0x076BBBD5384acd0550D8D58Bc758Dd9E0287CCCF) |
 | ibEUR stabilizer | [0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90](https://etherscan.io/address/0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90) |
+| ibEUR Fee Distribution | [0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA](https://etherscan.io/address/0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA) |
 
 ## Fixed Forex
 
