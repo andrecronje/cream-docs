@@ -11,6 +11,7 @@
 | ibEUR stabilizer | [0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90](https://etherscan.io/address/0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90) |
 | ibEUR Fee Distribution | [0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA](https://etherscan.io/address/0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA) |
 | KP3R Fee Distribution | [0x2EcB138B616986aE27DDEaB468b74281666c7E4C](https://etherscan.io/address/0x2EcB138B616986aE27DDEaB468b74281666c7E4C) |
+| StakingRewardsV3 RC1.1 | [0x7151bd4edd93df6411af964f190538b9ce715b7e](https://etherscan.io/address/0x7151bd4edd93df6411af964f190538b9ce715b7e) |
 
 ## Fixed Forex
 
