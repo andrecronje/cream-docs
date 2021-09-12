@@ -11,7 +11,9 @@
 | ibEUR stabilizer | [0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90](https://etherscan.io/address/0xaCB78857Cd645258e3C5C1eFd6dF59431BFE9D90) |
 | ibEUR Fee Distribution | [0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA](https://etherscan.io/address/0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA) |
 | KP3R Fee Distribution | [0x2EcB138B616986aE27DDEaB468b74281666c7E4C](https://etherscan.io/address/0x2EcB138B616986aE27DDEaB468b74281666c7E4C) |
-| StakingRewardsV3 RC1.1 | [0x7151bd4edd93df6411af964f190538b9ce715b7e](https://etherscan.io/address/0x7151bd4edd93df6411af964f190538b9ce715b7e) |
+| rKP3R | [0xEdB67Ee1B171c4eC66E6c10EC43EDBbA20FaE8e9](https://etherscan.io/address/0xEdB67Ee1B171c4eC66E6c10EC43EDBbA20FaE8e9) |
+| oKP3R | [0xBA15AB4C5B27917e19f772C9718095e248fEFF35](https://etherscan.io/address/0xBA15AB4C5B27917e19f772C9718095e248fEFF35) |
+| GaugeProxy | [0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b](https://etherscan.io/address/0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b) |
 
 ## Fixed Forex
 
@@ -72,3 +74,4 @@
 | Gauge Proxy | [0x90aAb6C9D887A7Ff8320e56fbd1F4Ff80A0811d5](https://etherscan.io/address/0x90aAb6C9D887A7Ff8320e56fbd1F4Ff80A0811d5) |
 | ibEUR Gauge | [0xFFb57364d63D5C5cf299D12Fa73cfabEFc301Dc4](https://etherscan.io/address/0xFFb57364d63D5C5cf299D12Fa73cfabEFc301Dc4) |
 | ibKRW Gauge | [0xCADEA5B814917c0D03a8cF7612c1e4B09f49dbc7](https://etherscan.io/address/0xCADEA5B814917c0D03a8cF7612c1e4B09f49dbc7) |
+| StakingRewardsV3 RC1.1 | [0x7151bd4edd93df6411af964f190538b9ce715b7e](https://etherscan.io/address/0x7151bd4edd93df6411af964f190538b9ce715b7e) |
