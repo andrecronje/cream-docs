@@ -15,8 +15,7 @@
 | oKP3R | [0xBA15AB4C5B27917e19f772C9718095e248fEFF35](https://etherscan.io/address/0xBA15AB4C5B27917e19f772C9718095e248fEFF35) |
 | GaugeProxy | [0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b](https://etherscan.io/address/0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b) |
 | KP3R/ETH v3 | [0x1B36c6c2413f7027B1c582C75b12E3c61A9B5069](https://etherscan.io/address/0x1B36c6c2413f7027B1c582C75b12E3c61A9B5069) |
-
-
+| StakingRewardsV3 | [0x68924dbd6eb82bFe666B2E0403f4cd1Cd6790C3f](https://etherscan.io/address/0x68924dbd6eb82bFe666B2E0403f4cd1Cd6790C3f) |
 
 ## Fixed Forex
 
