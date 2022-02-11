@@ -17,6 +17,7 @@
 | KP3R/ETH v3 | [0x1B36c6c2413f7027B1c582C75b12E3c61A9B5069](https://etherscan.io/address/0x1B36c6c2413f7027B1c582C75b12E3c61A9B5069) |
 | StakingRewardsV3 | [0x68924dbd6eb82bFe666B2E0403f4cd1Cd6790C3f](https://etherscan.io/address/0x68924dbd6eb82bFe666B2E0403f4cd1Cd6790C3f) |
 | rKP3Rv2 | [0x70d3c44cf2F5A4206e0f794E47b4532E75bCca6F](https://etherscan.io/address/0x70d3c44cf2F5A4206e0f794E47b4532E75bCca6F) |
+| ibAMM | [0x58d288812A2d67F520335e99A9718c04B8f2a3D4](https://etherscan.io/address/0x58d288812A2d67F520335e99A9718c04B8f2a3D4) |
 
 ## Fixed Forex
 
