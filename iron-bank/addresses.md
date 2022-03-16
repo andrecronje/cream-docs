@@ -11,7 +11,8 @@
 | GaugeProxy | [0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b](https://etherscan.io/address/0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b) |
 | rKP3Rv2 | [0x70d3c44cf2F5A4206e0f794E47b4532E75bCca6F](https://etherscan.io/address/0x70d3c44cf2F5A4206e0f794E47b4532E75bCca6F) |
 | Burner | [0x4BCD0d9Bdc8f28664987B99cc73DC368C7DEe1BD](https://etherscan.io/address/0x4BCD0d9Bdc8f28664987B99cc73DC368C7DEe1BD) |
-| controller | [0xA511dA90c2f4c557456cD84CD003A1F74C202d80](https://etherscan.io/address/0xA511dA90c2f4c557456cD84CD003A1F74C202d80) |
+| Controller | [0xA511dA90c2f4c557456cD84CD003A1F74C202d80](https://etherscan.io/address/0xA511dA90c2f4c557456cD84CD003A1F74C202d80) |
+| AMM | [0x0a0B06322825cb979678C722BA9932E0e4B5fd90](https://etherscan.io/address/0x0a0B06322825cb979678C722BA9932E0e4B5fd90) |
 
 ## Fixed Forex
 
