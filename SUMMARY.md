@@ -3,14 +3,15 @@
 ## Developer
 
 * [Addresses](iron-bank/addresses.md)
+* [Security](iron-bank/security.md)
 
 ## Iron Bank
 
-* [Iron Bank Contract Address](iron-bank/iron-bank.md)
-* [Collateral & Reserve Factor](iron-bank/collateral-and-reserve-factor.md)
-* [Interest Rate Model](iron-bank/interest-rate-model.md)
-* [Price Oracle](iron-bank/price-oracle.md)
+* [Iron Bank Contract Address](https://docs.ib.xyz/v/ethereum/)
+* [Collateral & Reserve Factor](https://docs.ib.xyz/v/ethereum/lending-market/collateral-factor)
+* [Interest Rate Model](https://docs.ib.xyz/v/ethereum/lending-market/interest-rate-model)
+* [Price Oracle](https://docs.ib.xyz/v/ethereum/lending-market/price-oracle)
 
 ## Flash Loans <a id="flash-loans-1"></a>
 
-* [Flash Loans](flash-loans-1/flash-loans.md)
+* [Flash Loans](https://docs.ib.xyz/v/ethereum/flash-loans)

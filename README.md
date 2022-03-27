@@ -16,4 +16,4 @@ Please check the link below for the latest list of supported tokens:
 
 ### How to use Fixed Forex?
 
-Borrow and lend tokens on [yearn.fi/lend](https://yearn.fi/lend)
+Borrow and lend tokens on [fixedforex.fi](https://fixedforex.fi/)
