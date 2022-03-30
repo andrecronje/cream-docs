@@ -2,7 +2,7 @@
 
 ### Iron Bank
 
-Iron Bank refers to the set of lending contracts that represent the Iron Bank money market. More on Iron Bank in their main documentation at [docs.ib.xyz](https://docs.ib.xyz/v/ethereum/). Markets can be added or removed via the [Iron Bank Unittroller](https://etherscan.io/address/0xAB1c342C7bf5Ec5F02ADEA1c2270670bCa144CbB). The admin for Iron Bank is the [Iron Bank Multisig](https://etherscan.io/address/0xa5fc0bbfcd05827ed582869b7254b6f141ba84eb#code). The list of multisig signers can be found [here](https://gnosis-safe.io/app/eth:0xA5fC0BbfcD05827ed582869b7254b6f141BA84Eb/settings/owners)
+Iron Bank refers to the set of lending contracts that represent the Iron Bank money market. More on Iron Bank in their main documentation at [docs.ib.xyz](https://docs.ib.xyz/v/ethereum/). Markets can be added or removed via the [Iron Bank Unittroller](https://etherscan.io/address/0xAB1c342C7bf5Ec5F02ADEA1c2270670bCa144CbB). The admin for Iron Bank is the [Iron Bank Timelock](https://etherscan.io/address/0x5b12f04e22384b01f42ed14da23eacd21f14ac17#code) which in turn is controlled by the [Iron Bank Multisig](https://etherscan.io/address/0xa5fc0bbfcd05827ed582869b7254b6f141ba84eb#code). The list of multisig signers can be found [here](https://gnosis-safe.io/app/eth:0xA5fC0BbfcD05827ed582869b7254b6f141BA84Eb/settings/owners)
 
 * [Github](https://github.com/ibdotxyz)
 * [docs.ib.xyz](https://docs.ib.xyz/v/ethereum/)
@@ -10,7 +10,7 @@ Iron Bank refers to the set of lending contracts that represent the Iron Bank mo
 
 ### Oracles
 
-Price Oracles are maintained by Iron Bank, more detail found [here](https://docs.ib.xyz/v/ethereum/lending-market/price-oracle)
+Price Oracles are maintained by Iron Bank, more detail found [here](https://docs.ib.xyz/v/ethereum/lending-market/price-oracle), oracle updates are behind the [Iron Bank Timelock](https://etherscan.io/address/0x5b12f04e22384b01f42ed14da23eacd21f14ac17#code)
 
 ### ibXX
 
@@ -36,5 +36,5 @@ ibXX assets can be `minted` only for the purpose of depositing into cyXX assets.
 
 * Keep3r Multisig can mint large supply into Iron Bank which decreases interest rates.
 * Keep3r Multisig can burn large supply from Iron Bank which increases interest rates.
-* Iron Bank Multisig can add a dangerous oracle that incorrectly provides price.
-* Iron Bank Multisig can add a dangerous asset that can be used to drain collateral.
+* Iron Bank Multisig can add a dangerous oracle that incorrectly provides price, this is guarded by the Iron Bank Timelock.
+* Iron Bank Multisig can add a dangerous asset that can be used to drain collateral, this is guarded by the Iron Bank Timelock.
